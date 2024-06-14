@@ -17,4 +17,4 @@
 <img aling="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-##### formado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e programação. Busco agora dar um novo passo na minha carreira, migrando para a área de desenvolvimento e explorando novas oportunidades de crescimento.
+##### Formado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e programação. Busco agora dar um novo passo na minha carreira, migrando para a área de desenvolvimento e explorando novas oportunidades de crescimento.
