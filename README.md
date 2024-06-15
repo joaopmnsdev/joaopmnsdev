@@ -1,5 +1,5 @@
 ## Olá, Mundo! </>
-### Eu sou o João Pedro, um grande apaixonado por tecnologia e programação👋
+### Eu sou o João Pedro, apaixonado por tecnologia e programação👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-marcon-9475a3238/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/joaopmnsdev)
