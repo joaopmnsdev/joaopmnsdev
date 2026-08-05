@@ -20,8 +20,7 @@ sobre bancos relacionais.
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** - Cátolica - SC
 - 🎓 Pós-graduação em **Ciência de Dados e Inteligência Artificial** — Uninter
-- 🤖 Experiência forte em **IA aplicada a desenvolvimento**: integração de LLMs em sistemas,
-  e uso diário de **Claude Code** em implementação, refatoração e revisão de código
+- 🤖 Experiência forte em **IA aplicada a desenvolvimento**: integração de LLMs em sistemas, uso diário de **Claude Code** em implementação, refatoração e revisão de código + orquestração e construção de agentes
 - ⚙️ Background sólido em **RPA e automação de processos**
 
 ---
